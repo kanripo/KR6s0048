@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:04.549481
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:59
 #+TITLE: 禮懺文
 #+PROPERTY: CBETA_ID T85n2856
 #+PROPERTY: ID KR6s0048
