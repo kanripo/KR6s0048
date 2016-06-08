@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:04.362348
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:59
 #+TITLE: 禮懺文
 #+PROPERTY: CBETA_ID T85n2856
 #+PROPERTY: ID KR6s0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2856
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0048_T_000-1305c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0048_T_001-1305c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2856¶
-
- 禮懺文¶
+No. 2856¶
+禮懺文¶
 ¶
 
 身有罪盡懺悔已。歸命禮三寶　志心勸請¶
